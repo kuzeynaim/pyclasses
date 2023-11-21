@@ -1,2 +1,2 @@
 # Test files
-This rep contains small scripts for studying coding
+This rep contains datasets and projects
